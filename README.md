@@ -33,6 +33,7 @@
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
 | October 2021 | Dacoll MSP | Ransomware attack | Dacoll, a Scotland-based MSP, was attacked by CL0P and claimed they stole data from the Police National Computer (PNC) and published some as proof to its data leak site. Officials from the UK Home Office deny that the PNC was accessed.  | [theregister.com](https://www.theregister.com/2021/12/20/dacoll_ransomware_clop_pnc_claims/) |
+| July 2023 | Ortivus | Disruptive attack | Ortivus, a Swedish IT company, was attacked and it left two British ambulance services without access to electronic patient records. The ambulances services are responsible for emergency calls from an area from Cornwall to Oxford, containing up to 12.5 million people. The precise nature of the attack has not been disclosed. Delays were caused and staff were being forced to use pens and paper as a result. | [therecord.media](https://therecord.media/british-ambulances-unable-to-access-patient-records) |
 
 ### 6. Energy
 | When | Victim | Incident Type | Short Description | Source(s) |
