@@ -42,7 +42,7 @@
 ### 7. Finance
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| November 2016 | Tesco Bank | Financial Theft | Tesco Bank had £2.26m stolen from 9,000 customer accounts. The adversary reportedly exploited a misconfiguration in how Tesco Bank distributed debit card numbers and used an algorithm to generate virtual cards and made thousands of unauthorised transactions. | [zdnet.com](https://www.zdnet.com/article/this-is-how-cyber-attackers-were-able-to-steal-2-26m-from-tesco-bank-customers/) |
 
 ### 8. Food
 | When | Victim | Incident Type | Short Description | Source(s) |
