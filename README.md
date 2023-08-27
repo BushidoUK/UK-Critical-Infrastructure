@@ -47,7 +47,8 @@
 ### 8. Food
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| December 2021 | Spar | Ransomware attack | More than 300 branches of the convenience store chain Spar in the north of England were hit by a ransomware attack, forcing many of them to close. | [news.sky.com](https://news.sky.com/story/supermarket-spar-forced-to-close-stores-due-to-cyber-attack-12488466) |
+| October 2021 | Tesco | Denial of Service | Tesco's wesbite and app were attacked, leaving customers unable to order, amend, or cancel deliveries for two days. | [theguardian.com](https://www.theguardian.com/business/2021/oct/24/tesco-website-hit-by-hackers-leaving-thousands-of-customers-frustrated) |
 
 ### 9. Government
 | When | Victim | Incident Type | Short Description | Source(s) |
