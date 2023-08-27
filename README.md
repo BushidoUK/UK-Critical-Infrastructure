@@ -32,7 +32,7 @@
 ### 5. Emergency Services
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| October 2021 | Dacoll MSP | Ransomware attack | Dacoll, a Scotland-based MSP, was attacked by CL0P and claimed they stole data from the Police National Computer (PNC) and published some as proof to its data leak site. Officials from the UK Home Office deny that the PNC was accessed.  | [theregister.com](https://www.theregister.com/2021/12/20/dacoll_ransomware_clop_pnc_claims/) |
 
 ### 6. Energy
 | When | Victim | Incident Type | Short Description | Source(s) |
@@ -58,7 +58,8 @@
 ### 10. Health
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| May 2017 | The NHS | Ransomware attack | The WannaCry ransomware worm impacted up to 40 NHS organisations and some GP practices in England and Scotland. Trusts in Wales and Northern Ireland were reportedly not impacted. | [bbc.co.uk](https://www.bbc.co.uk/news/health-39899646) |
+| August 2017 | NHS Lanarkshire (Scotland) | Ransomware attack | BitPaymer ransomware attack on hospital group in Scotland.  | [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/bit-paymer-ransomware-hits-scottish-hospitals/) |
 
 ### 11. Space
 | When | Victim | Incident Type | Short Description | Source(s) |
