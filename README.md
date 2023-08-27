@@ -84,4 +84,4 @@
 ### `13. Water`
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
-| August 2022 | South Staffordshire PLC | Cybercrime Extortion Attempt | South Staffordshire PLC, the parent company of South Staff Water and Cambridge Water, was breached by CL0P. Screenshots of the company's SCADA systems used to control industrial processes at water treatment facilities were shared. CL0P also originally mistook the victim for Thames Water on its data leak site. | [bitdefender.com](https://www.bitdefender.com/blog/hotforsecurity/uk-drinking-water-supplier-hit-with-clop-ransomware/) |
+| August 2022 | South Staffordshire PLC | Ransomware attack | South Staffordshire PLC, the parent company of South Staff Water and Cambridge Water, was breached by CL0P but no ransomware was deployed. Screenshots of the company's SCADA systems used to control industrial processes at water treatment facilities were shared. CL0P also originally mistook the victim for Thames Water on its data leak site. | [bitdefender.com](https://www.bitdefender.com/blog/hotforsecurity/uk-drinking-water-supplier-hit-with-clop-ransomware/) |
