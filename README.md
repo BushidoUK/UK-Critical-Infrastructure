@@ -22,7 +22,7 @@
 ### 3. Communications
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| October 2015 | TalkTalk | Data Breach | TalkTalk's website had a critical SQL injection vulnerability that was exploited by adolescent cybercriminals from the UK to steal personal records from around 157,000 customer accounts. The CEO, Dido Harding, reportedly received a ransom email asking Bitcoin in exchange for the stolen data. The estimated cost of the breach was £77 million. | [bbc.co.uk](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-46264327) |
 
 ### 4. Defence
 | When | Victim | Incident Type | Short Description | Source(s) |
@@ -42,7 +42,7 @@
 ### 7. Finance
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| November 2016 | Tesco Bank | Financial Theft | Tesco Bank had £2.26m stolen from 9,000 customer accounts. The adversary reportedly exploited a misconfiguration in how Tesco Bank distributed debit card numbers and used an algorithm to generate virtual cards and made thousands of unauthorised transactions. | [zdnet.com](https://www.zdnet.com/article/this-is-how-cyber-attackers-were-able-to-steal-2-26m-from-tesco-bank-customers/) |
+| November 2016 | Tesco Bank | Financial Theft | Tesco Bank had £2.26 million stolen from 9,000 customer accounts. The adversary reportedly exploited a misconfiguration in how Tesco Bank distributed debit card numbers and used an algorithm to generate virtual cards and made thousands of unauthorised transactions. The estimated cost of the breach was £16.4 million. | [zdnet.com](https://www.zdnet.com/article/this-is-how-cyber-attackers-were-able-to-steal-2-26m-from-tesco-bank-customers/) |
 
 ### 8. Food
 | When | Victim | Incident Type | Short Description | Source(s) |
