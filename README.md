@@ -4,7 +4,7 @@
 - This is an open source intelligence (OSINT) research project based on publicly available information only
 - These reports can act as case studies to understand the threat landscape for UK CNI
 
-### The 13 national infrastructure sectors
+### The 13 UK national infrastructure sectors
 - According to the [UK National Protective Security Authority (NPSA)](https://www.npsa.gov.uk/critical-national-infrastructure-0), there are 13 critical national infrastructure sectors that are necessary for a country to function and upon which daily life depends.
 - This also includes organisations which are not critical to the maintenance of essential services, but which need protection due to the potential danger to the public (civil nuclear and chemical sites for example).
 - This research project will index reports as case studies of incidents happening in the UK only for each of the 13 designated CNI sectors.
@@ -72,4 +72,4 @@
 ### 13. Water
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| August 2022 | South Staffordshire PLC | Cybercrime Extortion Attempt | South Staffordshire PLC, the parent company of South Staff Water and Cambridge Water, was breached by CL0P. Screenshots of the company's SCADA systems used to control industrial processes at water treatment facilities were shared. CL0P also originally mistook the victim for Thames Water on its data leak site. | [bitdefender.com](https://www.bitdefender.com/blog/hotforsecurity/uk-drinking-water-supplier-hit-with-clop-ransomware/) |
