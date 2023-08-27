@@ -1,6 +1,6 @@
 # Cyberattacks on UK Critical Infrastructure
 
-- A collection of reports related to cyberattacks on UK critical national infrastructure (CNI)
+- A collection of reports related to cyberattacks and campaigns against UK critical national infrastructure (CNI)
 - This is an open source intelligence (OSINT) research project based on publicly available information only
 - These reports can act as case studies to understand the threat landscape for UK CNI
 
@@ -41,12 +41,14 @@
 ### 6. Energy
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| March 2017 | Unspecified | Cyber-espionage | The NCSC warned that multiple companies involved in the CNI supply chain were targeted by a state-sponsored espionage campaign focusing on industrial control systems and process. The campaign is tracked in open sources as Berserk Bear, Energetic Bear, Dragonfly, Havex, and Crouching Yeti. | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/hostile-state-actors-compromising-uk-organisations-focus-engineering-and-industrial-control) |
+| May 2020 | Elexon | Ransomware attack | Elexon's internal IT systems, including emails, were affected by a REvil ransomware attack. Files stolen from Elexon were published to the group's data leak site as proof. The Balancing and Settlement Code (BSC) central systems and Electricity Market Reform (EMR) systems were not affected. | [securityweek.com](https://www.securityweek.com/hackers-leak-data-stolen-uk-electricity-market-administrator-elexon/) |
 
 ### 7. Finance
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
 | November 2016 | Tesco Bank | Financial Theft | Tesco Bank had £2.26 million stolen from 9,000 customer accounts. The adversary reportedly exploited a misconfiguration in how Tesco Bank distributed debit card numbers and used an algorithm to generate virtual cards and made thousands of unauthorised transactions. The estimated cost of the breach was £16.4 million. | [zdnet.com](https://www.zdnet.com/article/this-is-how-cyber-attackers-were-able-to-steal-2-26m-from-tesco-bank-customers/) |
+| | Travelex | Ransomware attack | | |
 
 ### 8. Food
 | When | Victim | Incident Type | Description | Source(s) |
@@ -57,7 +59,9 @@
 ### 9. Government
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| | Ex-MI6 Chief | Hack-and-Leak Operation | | |
+| | Electoral Comission | Cyber-espionage | | |
+| | FCDO | Cyber-espionage | | |
 
 ### 10. Health
 | When | Victim | Incident Type | Description | Source(s) |
@@ -74,7 +78,8 @@
 ### 12. Transport
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| | British Airways | | | |
+| | EasyJet | | | |
 
 ### 13. Water
 | When | Victim | Incident Type | Description | Source(s) |
