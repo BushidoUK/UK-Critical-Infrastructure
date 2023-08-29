@@ -12,7 +12,7 @@
 ### `1. Chemicals` 
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| November 2020 | AstraZeneca | Cyber-espionage | A suspected North Korean APT group posed as recruiters on networking site LinkedIn and WhatsApp to approach AstraZeneca staff with fake job offers, the sources Reuters. The focus of the group appeared to be staff working on COVID-19 research for AstraZeneca's vaccine during the pandemic. | [reuters.com](https://www.reuters.com/article/us-healthcare-coronavirus-astrazeneca-no-idUSKBN2871A2) |
 
 ### `2. Civil Nuclear`
 | When | Victim | Incident Type | Short Description | Source(s) |
