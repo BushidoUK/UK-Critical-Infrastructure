@@ -48,7 +48,7 @@
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
 | November 2016 | Tesco Bank | Financial Theft | Tesco Bank had £2.26 million stolen from 9,000 customer accounts. The adversary reportedly exploited a misconfiguration in how Tesco Bank distributed debit card numbers and used an algorithm to generate virtual cards and made thousands of unauthorised transactions. The estimated cost of the breach was £16.4 million. | [zdnet.com](https://www.zdnet.com/article/this-is-how-cyber-attackers-were-able-to-steal-2-26m-from-tesco-bank-customers/) |
-| | Travelex | Ransomware attack | | |
+| December 2019 | Travelex | Ransomware attack | Travelex suffered a multi-week outage after an REvil ransomware attack on New Years Eve. Initial access was gained via an unpatched Pulse Secure VPN. The ransomware group demanded a £4.6 million ransom. | [arstechnica.com](https://arstechnica.com/information-technology/2020/01/unpatched-vpn-makes-travelex-latest-victim-of-revil-ransomware/) |
 
 ### `8. Food`
 | When | Victim | Incident Type | Description | Source(s) |
