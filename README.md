@@ -17,7 +17,7 @@
 ### `2. Civil Nuclear`
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| | | | | |
+| March 2019 | Unnamed Nuclear Power Sector firm | Unspecified cyberattack | A Nuclear Decommissioning Authority (NDA) report, obtained using freedom of information legislation, said officials are “aware that an important business in the Nuclear Power Generating Sector has been negatively impacted by a cyber attack..." The organizations was "...not part of the NDA group." | [telegraph.co.uk](https://www.telegraph.co.uk/business/2019/11/30/cyber-attack-targets-uks-nuclear-industry/) |
 
 ### `3. Communications`
 | When | Victim | Incident Type | Short Description | Source(s) |
