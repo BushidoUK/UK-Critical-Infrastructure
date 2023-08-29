@@ -59,9 +59,10 @@
 ### `9. Government`
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
-| | Ex-MI6 Chief | Hack-and-Leak Operation | | |
-| | Electoral Comission | Cyber-espionage | | |
-| | FCDO | Cyber-espionage | | |
+| October 2020 | London’s Hackney Council | Ransomware attack | Protect Your Systems Amigo (PYSA) ransomware attack Hackney council during the Covid-19 pandemic. As a result, for around a year housing benefit payments and social care services did not function properly. The estimated cost of the attack was £12 million. | [wired.com](https://www.wired.com/story/ransomware-attack-recovery-hackney/) |
+| August 2021 | Electoral Comission | Cyber-espionage | The UK Electoral Comission was breached in August 2021 by a hostile actor (likely state-sponsored) who was not discovered until October 2022. Names and addresses of 40 million registered voters were accessible as far back as 2014. | [electoralcommission.org.uk](https://www.electoralcommission.org.uk/privacy-policy/public-notification-cyber-attack-electoral-commission-systems/information-about-cyber-attack) |
+| May 2022 | Brexit campaigners and the former Head of MI6 | Hack-and-Leak Operation | A website was created that published leaked emails from several leading proponents of Britain's exit from the European Union was tied to Russian hackers linked to the Callisto group (aka Cold Driver or Gossamer Bear) | [reuters.com](https://www.reuters.com/technology/exclusive-russian-hackers-are-linked-new-brexit-leak-website-google-says-2022-05-25/) |
+| January 2022 | Foreign, Commonwealth and Development Office (FCDO) | Cyber-espionage | The FCDO was impacted by a "serious cyber security incident". iNews reported that adversaries from both China and Russia were able to access emails, internal messages, and Teams meetings revealing the day-to-day business of the government department, but no classified information was stolen. | [thestack.technology](https://www.thestack.technology/foreign-office-hacked-fcdo-cyber-attack/), [inews.co.uk](https://inews.co.uk/news/russian-chinese-hackers-foreign-office-cyber-attack-secret-public-2541644?ico=in-line_link) |
 
 ### `10. Health`
 | When | Victim | Incident Type | Description | Source(s) |
