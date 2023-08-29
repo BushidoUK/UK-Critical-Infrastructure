@@ -79,8 +79,8 @@
 ### `12. Transport`
 | When | Victim | Incident Type | Description | Source(s) |
 |---|---|---|---|---|
-| | British Airways | | | |
-| | EasyJet | | | |
+| September 2018 | British Airways | Magecart Webskimming | British Airways' website was compromised and a JavaScript webskimmer from a Magecart group compromised the personal and financial details of customers who made bookings on its website or app between 21 August and 5 September. Close to 400,000 customers were impacted. The UK ICO fined British Airways £20 million. | [zdnet.com](https://www.zdnet.com/article/british-airways-hit-with-customer-data-theft/). [reuters.com](https://www.reuters.com/business/aerospace-defense/british-airways-reaches-settlement-with-customers-over-2018-data-breach-2021-07-06/) |
+| May 2020 | EasyJet | Data breach | EasyJet disclosed a data breach affecting nine million of its customers and involving over 2,000 credit-card details. The company did not disclose when the breach occurred or how it happened. | [zdnet.com](https://www.zdnet.com/article/easyjet-hack-9-million-customers-hit-and-2000-credit-cards-exposed/) |
 
 ### `13. Water`
 | When | Victim | Incident Type | Description | Source(s) |
