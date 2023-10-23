@@ -24,6 +24,7 @@
 |---|---|---|---|---|
 | October 2015 | TalkTalk | Data Breach | TalkTalk's website had a critical SQL injection vulnerability that was exploited by adolescent cybercriminals from the UK to steal personal records from around 157,000 customer accounts. The CEO, Dido Harding, reportedly received a ransom email asking Bitcoin in exchange for the stolen data. The estimated cost of the breach was £77 million. | [bbc.co.uk](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-46264327) |
 | October 2021 | Multiple UK VoIP firms | Denial of Service attack | Industry body Comms Council UK said several of its members had been targeted by distributed denial of service (DDoS) attacks in an alleged effort to extort those companies. The customers of these VoIP firms included public services, including the police 999 emergency call line and the NHS 111 service. | [bbc.co.uk](https://www.bbc.co.uk/news/technology-59053876) |
+| October 2023 | Lyca Mobile | Network Disruption and Data Breach | UK-based mobile virtual network provider giant Lyca Mobile has confirmed a cyberattack that caused service disruption for millions of its customers and led to data theft. | 1. [techcrunch.com](https://techcrunch.com/2023/10/04/lyca-mobile-blames-cyberattack-for-network-disruption/) 2. [techcrunch.com](https://techcrunch.com/2023/10/06/lyca-mobile-says-customer-data-was-stolen-during-cyberattack/?guccounter=1) |
 
 ### `4. Defence`
 | When | Victim | Incident Type | Description | Source(s) |
