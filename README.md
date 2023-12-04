@@ -17,8 +17,8 @@
 ### `2. Civil Nuclear`
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
-| December 2023 | Sellafield nuclear site | State-sponsored malware attacks | Attacks attributed to suspected Russian and/or Chinese APT groups dating back to 2015. The UK Government has disputed these claims. | [theguardian.com](https://www.theguardian.com/business/2023/dec/04/sellafield-nuclear-site-hacked-groups-russia-china) [reuters.com](https://www.reuters.com/world/uk/britain-says-no-evidence-sellafield-nuclear-site-has-been-hacked-2023-12-04/) |
 | March 2019 | Unnamed Nuclear Power Sector firm | Unspecified cyberattack | A Nuclear Decommissioning Authority (NDA) report, obtained using freedom of information legislation, said officials are “aware that an important business in the Nuclear Power Generating Sector has been negatively impacted by a cyber attack..." The organizations was "...not part of the NDA group." | [telegraph.co.uk](https://www.telegraph.co.uk/business/2019/11/30/cyber-attack-targets-uks-nuclear-industry/) |
+| December 2023 | Sellafield nuclear site | State-sponsored malware attacks | Attacks attributed to suspected Russian and/or Chinese APT groups dating back to 2015. The UK Government has disputed these claims. | [theguardian.com](https://www.theguardian.com/business/2023/dec/04/sellafield-nuclear-site-hacked-groups-russia-china) [reuters.com](https://www.reuters.com/world/uk/britain-says-no-evidence-sellafield-nuclear-site-has-been-hacked-2023-12-04/) |
 
 ### `3. Communications`
 | When | Victim | Incident Type | Short Description | Source(s) |
@@ -32,7 +32,7 @@
 |---|---|---|---|---|
 | March 2021 | Defence Academy of the United Kingdom | Cyber-espionage | The Oxfordshire-based Defence Academy of the United Kingdom reportedly faced a "sophisticated" cyberattack that had "consequences for operations" and it had to "rebuild the network" but whether criminals or a hostile state were responsible is unknown. The academy's IT infrastructure, including its website, is managed by Serco, an outsourcing company. Its contractors first spotted the unusual activity. | [news.sky.com](https://news.sky.com/story/cyber-attack-on-uks-defence-academy-had-significant-impact-officer-in-charge-at-the-time-reveals-12507570) |
 | March 2023 | Capita | Ransomware attack | Captia was victim to a ransomware attack by the Black Basta gang. The company is a public sector outsourcing specialist and has massive contracts with the Ministry of Defence, including recruitment for the British army, maintenance at the UK’s Submarine Training Centre, and fire and rescue operations for the Ministry of Defence. Capita said the Black Basta attack is estimated to cost them above £15 million. | [theguardian.com](https://www.theguardian.com/business/2023/mar/31/capita-it-systems-fail-cyber-attack-nhs-fears), [computerweekly.com](https://www.computerweekly.com/news/366537238/Black-Basta-ransomware-attack-to-cost-Capita-over-15m) |
-
+| August 2023 | Zaun | Ransomware attack | British mesh fencing systems maker Zaun disclosed it was victim to a LockBit ransomware attack that exposed the data of UK military and intelligence sites. | [zaun.co.uk](https://www.zaun.co.uk/zaun-data-breach-update/) [securityweek.com](https://www.securityweek.com/ransomware-attack-on-fencing-systems-maker-zaun-impacts-uk-military-data/) |
 
 ### `5. Emergency Services`
 | When | Victim | Incident Type | Description | Source(s) |
