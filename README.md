@@ -17,6 +17,7 @@
 ### `2. Civil Nuclear`
 | When | Victim | Incident Type | Short Description | Source(s) |
 |---|---|---|---|---|
+| December 2023 | Sellafield nuclear site | State-sponsored malware attacks | Attacks attributed to suspected Russian and/or Chinese APT groups dating back to 2015. The UK Government has disputed these claims. | [theguardian.com](https://www.theguardian.com/business/2023/dec/04/sellafield-nuclear-site-hacked-groups-russia-china) [reuters.com](https://www.reuters.com/world/uk/britain-says-no-evidence-sellafield-nuclear-site-has-been-hacked-2023-12-04/) |
 | March 2019 | Unnamed Nuclear Power Sector firm | Unspecified cyberattack | A Nuclear Decommissioning Authority (NDA) report, obtained using freedom of information legislation, said officials are “aware that an important business in the Nuclear Power Generating Sector has been negatively impacted by a cyber attack..." The organizations was "...not part of the NDA group." | [telegraph.co.uk](https://www.telegraph.co.uk/business/2019/11/30/cyber-attack-targets-uks-nuclear-industry/) |
 
 ### `3. Communications`
