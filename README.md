@@ -3,6 +3,8 @@
 - A collection of reports related to cyberattacks and campaigns against UK critical national infrastructure (CNI)
 - This is an open source intelligence (OSINT) research project based on publicly available information only
 - These reports can act as case studies to understand the threat landscape for UK CNI
+- The Joint Committee on the National Security Strategy (JCNSS) [warned](https://therecord.media/uk-government-risking-catastrophic-ransomware) in December 2023 that there is a “high risk” the country faces a “catastrophic ransomware attack at any moment”
+- Ransomware incidents [reportedly](https://therecord.media/ransomware-incidents-now-make-up-majority-of-british-governments-crisis-management-cobra-meetings) make up the majority of the British government’s crisis management Cabinet Office Briefing Rooms (COBR) meetings
 
 ### The 13 UK national infrastructure sectors
 - According to the [UK National Protective Security Authority (NPSA)](https://www.npsa.gov.uk/critical-national-infrastructure-0), there are 13 critical national infrastructure sectors that are necessary for a country to function and upon which daily life depends.
